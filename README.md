@@ -72,7 +72,7 @@
 </details>
 
 <details>
-<summary><strong>📋 Объединение �� разделение файлов</strong></summary>
+<summary><strong>📋 Объединение и разделение файлов</strong></summary>
 
 - Объединение нескольких файлов в один
 - Разделение больших файлов по количеству строк
@@ -139,6 +139,10 @@ TXT-CLI/
 ```
 
 ### 🚀 Установка и запуск
+
+#### Демонстрация установки
+
+![TXT-CLI Installation Demo](video.gif)
 
 #### 1. Клонировать репозиторий
 ```bash
@@ -339,6 +343,10 @@ TXT-CLI/
 ```
 
 ### 🚀 Installation & Setup
+
+#### Installation Demo
+
+![TXT-CLI Installation Demo](video.gif)
 
 #### 1. Clone Repository
 ```bash
