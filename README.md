@@ -23,6 +23,7 @@
 ![TXT-CLI Demo](video/video.gif)
 
 **Посмотрите как работает TXT-CLI в реальном времени** ↑
+(p.s. извините то что лагает к сожелению .gif не подъерживает 60 fps сори)
 
 </div>
 
@@ -235,6 +236,7 @@ txt-cli --help
 ![TXT-CLI Demo](video/video.gif)
 
 **See TXT-CLI in action in real time** ↑
+(p.s. sorry for the lag, unfortunately .gif doesn't support 60 fps sorry)
 
 </div>
 
